@@ -44,8 +44,7 @@ The Tenzies app allows users to roll the dice until all dice show the same value
    
 3. Start the development server:
    ```bash
-   cd tenzies-app
-   npm install
+   npm run dev
    ```
 4. Open your browser and go to http://localhost:5173 to experience the "Roll Until All Dice Are the Same" feature.
 
